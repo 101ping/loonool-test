@@ -1,0 +1,11 @@
+.next
+.turbo
+node_modules
+.env
+.env.*
+!.env.example
+dist
+out
+*.log
+
+
